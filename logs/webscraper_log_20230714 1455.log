@@ -1,0 +1,329 @@
+2023-07-14 14:55:27,529 :: [Aeris Scraping Error KHST]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:28,426 :: [Aeris Scraping Error KTMB]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:29,300 :: [Aeris Scraping Error KMIA]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:30,196 :: [Aeris Scraping Error KOPF]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:31,082 :: [Aeris Scraping Error KHWO]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:31,522 :: [Aeris Scraping Error KFLL]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:32,390 :: [Aeris Scraping Error KAPF]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:32,846 :: [Aeris Scraping Error KFXE]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:33,716 :: [Aeris Scraping Error KPMP]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:34,160 :: [Aeris Scraping Error KRSW]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:34,638 :: [Aeris Scraping Error KFMY]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:35,518 :: [Aeris Scraping Error KPBI]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:36,400 :: [Aeris Scraping Error KPGD]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:36,874 :: [Aeris Scraping Error KVNC]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:37,775 :: [Aeris Scraping Error KSUA]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:38,215 :: [Aeris Scraping Error KOBE]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:38,688 :: [Aeris Scraping Error KSRQ]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:39,578 :: [Aeris Scraping Error KFPR]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:40,017 :: [Aeris Scraping Error KVRB]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:40,914 :: [Aeris Scraping Error KMLB]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:41,789 :: [Aeris Scraping Error KCOF]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:42,271 :: [Aeris Scraping Error KXMR]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:42,720 :: [Aeris Scraping Error KTTS]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:43,188 :: [Aeris Scraping Error KSFB]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:44,046 :: [Aeris Scraping Error KDED]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:44,911 :: [Aeris Scraping Error KDAB]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:45,373 :: [Aeris Scraping Error KFIN]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:46,275 :: [Aeris Scraping Error KGNV]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:46,709 :: [Aeris Scraping Error KSGJ]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:47,155 :: [Aeris Scraping Error KPAM]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:47,642 :: [Aeris Scraping Error KLCQ]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:48,538 :: [Aeris Scraping Error KNIP]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:48,963 :: [Aeris Scraping Error KCRG]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:49,427 :: [Aeris Scraping Error KNPA]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:50,308 :: [Aeris Scraping Error KECP]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:51,178 :: [Aeris Scraping Error KNRB]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:52,028 :: [Aeris Scraping Error KDTS]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:52,998 :: [Aeris Scraping Error KHRT]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:53,449 :: [Aeris Scraping Error KPNS]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:54,302 :: [Aeris Scraping Error KVPS]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:54,867 :: [Aeris Scraping Error KJAX]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:55,737 :: [Aeris Scraping Error KFHB]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:56,650 :: [Aeris Scraping Error KEGI]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:57,096 :: [Aeris Scraping Error KNDZ]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:57,631 :: [Aeris Scraping Error KNSE]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:58,072 :: [Aeris Scraping Error KCEW]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-14 14:55:58,926 :: [Aeris Scraping Error KMAI]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range

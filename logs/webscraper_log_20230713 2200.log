@@ -1,0 +1,12 @@
+2023-07-13 22:06:09,292 :: [Aeris Scraping Error KNRB]
+Traceback (most recent call last):
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 576, in scrape_aeris
+    aeris = parse_weather_data_aeris(response.json())
+  File "D:\DRx FPL\zz Ad Hoc\Weather Data Scraping\weather_forecast_scraper_v0.2.2.py", line 390, in parse_weather_data_aeris
+    periods = data['response'][0]['periods']
+IndexError: list index out of range
+2023-07-13 22:08:06,880 :: Saved 47 weather stations
+2023-07-13 22:08:06,904 :: Saved 47 weather stations
+2023-07-13 22:08:06,929 :: Saved 47 weather stations
+2023-07-13 22:08:06,958 :: Saved 46 weather stations
+2023-07-13 22:08:06,964 :: Script execution runtime: 7.246505498333378 mins
